@@ -31,14 +31,37 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/arslonbek-ishanov/"><img width="40px" height="40px" alt="LinkedIn" title="View my LinkedIn" src="https://github.com/user-attachments/assets/06b5692a-f413-4f89-a61b-9cd3e72c875c"/></a>
+  <a href="https://www.linkedin.com/in/arslonbek-ishanov/"><img width="40px" height="40px" alt="LinkedIn" title="View my LinkedIn" src="https://github.com/user-attachments/assets/2fe5106d-f42f-4f07-9d0c-1b82df108429"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="40px" height="40px" alt="Kaggle" title="View my Kaggle Profile" src="https://github.com/user-attachments/assets/e9d482f6-fec4-4c79-ab0c-2352e3b6f52a"/></a>
+  <a href="https://dev.to/denvercoder1"><img width="40px" height="40px" alt="Kaggle" title="View my Kaggle Profile" src="https://github.com/user-attachments/assets/55a1e073-ad42-4d1d-86f8-8381ccb4c66f"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord"><img width="40px" height="40px" alt="Discord" title="DM me on Discord" src="https://github.com/user-attachments/assets/d87b688e-f68a-4a07-8a63-da210c516ae6"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord"><img width="40px" height="40px" alt="Discord" title="DM me on Discord" src="https://github.com/user-attachments/assets/a89af0bc-eea5-4151-9b8c-80b6b54aa2fd"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; 
   <a href="mailto:arslonbek.ishanov.work@gmail.com"><img width="40px" height="40px" alt="Email" title="Send me an email" src="https://github.com/user-attachments/assets/795210e4-7f07-4636-a517-d44e919b42bd"/></a>
 </p>
+
+
+## My Contributions
+
+<a href="https://github.com/scikit-learn/scikit-learn/issues/30907">
+  <img align="left" width="60px" height="60px" alt="IBM AI/ML Engineer" src="https://github.com/user-attachments/assets/4573f2e9-7ba0-4fee-b81f-025462e76849"/>
+</a>
+
+  **Completed the Scikit-Learn Documentation**  
+  *on GitHub*
+
+<br clear="left"/>
+
+<a href="https://en.wikipedia.org/wiki/Talk:Scikit-learn">
+  <img align="left" width="60px" height="60px" alt="IBM AI/ML Engineer" src="https://github.com/user-attachments/assets/799cc749-63e3-430f-940a-e1f0befc28ff"/>
+</a>
+
+  **Expanded the Wikipedia Article on Scikit-Learn**  
+  *on Wikipedia*
+
+<br clear="left"/>
+
+
 
 
 
