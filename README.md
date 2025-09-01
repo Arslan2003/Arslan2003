@@ -39,3 +39,20 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
   &#8287;&#8287;&#8287;&#8287;&#8287; 
   <a href="mailto:arslonbek.ishanov.work@gmail.com"><img width="40px" height="40px" alt="Email" title="Send me an email" src="https://github.com/user-attachments/assets/795210e4-7f07-4636-a517-d44e919b42bd"/></a>
 </p>
+
+
+
+## Currently Learning
+
+
+
+
+<a href="https://www.coursera.org/professional-certificates/ai-engineer">
+  <img align="left" width="60px" height="60px" alt="icons8-ibm-50" src="https://github.com/user-attachments/assets/d85b4049-d770-46c4-86c4-69696c06e3c1" />
+  <!--- <img align="left" width="50px" height="50px" alt="IBM AI/ML Engineer" src="https://github.com/user-attachments/assets/528b5d87-3754-4fc1-b7a2-c5fe7dad40b1"/> --->
+</a>
+
+**IBM AI/ML Engineer Professional Certificate**  
+*via Coursera*  
+
+<br clear="left"/>
