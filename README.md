@@ -37,5 +37,5 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord"><img width="40px" height="40px" alt="Discord" title="DM me on Discord" src="https://github.com/user-attachments/assets/d87b688e-f68a-4a07-8a63-da210c516ae6"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; 
-  <a href="arslonbek.ishanov.work@gmail.com"><img width="40px" height="40px" alt="Email" title="Send me an email" src="https://github.com/user-attachments/assets/795210e4-7f07-4636-a517-d44e919b42bd"/></a>
+  <a href="mailto:arslonbek.ishanov.work@gmail.com"><img width="40px" height="40px" alt="Email" title="Send me an email" src="https://github.com/user-attachments/assets/795210e4-7f07-4636-a517-d44e919b42bd"/></a>
 </p>
