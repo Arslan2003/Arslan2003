@@ -44,15 +44,12 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
 
 ## Currently Learning
 
-
-
-
 <a href="https://www.coursera.org/professional-certificates/ai-engineer">
-  <img align="left" width="60px" height="60px" alt="icons8-ibm-50" src="https://github.com/user-attachments/assets/d85b4049-d770-46c4-86c4-69696c06e3c1" />
-  <!--- <img align="left" width="50px" height="50px" alt="IBM AI/ML Engineer" src="https://github.com/user-attachments/assets/528b5d87-3754-4fc1-b7a2-c5fe7dad40b1"/> --->
+  <img align="left" width="60px" height="60px" alt="IBM AI/ML Engineer" src="https://github.com/user-attachments/assets/d85b4049-d770-46c4-86c4-69696c06e3c1"/>
 </a>
 
-**IBM AI/ML Engineer Professional Certificate**  
-*via Coursera*  
+  **IBM AI/ML Engineer Professional Certificate**  
+  *via Coursera*
 
 <br clear="left"/>
+
