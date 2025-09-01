@@ -28,7 +28,7 @@ To include:
 
 **Junior Data Scientist**
 
-Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engineer, Open Source Contributor, and a tennis player. I apply my Data Science skills to real-life problems in Finance and Technology. All projects here are built from the ground up, from planning and designing to solving real-life problems with code.
+Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engineer, Open Source Contributor, and a tennis player. I apply my Data Science skills to real-life <!--change to a synonym cuz there's one below--> problems in Finance and Technology. All projects here are built from the ground up, from planning and designing to solving real-life problems with code.
 
 <!-- Social icons section -->
 <p align="center">
