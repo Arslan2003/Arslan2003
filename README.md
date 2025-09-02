@@ -43,25 +43,31 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
 
 
 
-<h2>My Contributions</h2> 
+<details open>
+  
+  <summary><h2>My Contributions</h2></summary>
 
-<a href="https://github.com/scikit-learn/scikit-learn/issues/30907">
+  <a href="https://github.com/scikit-learn/scikit-learn/issues/30907">
   <img align="left" width="60px" height="60px" alt="IBM AI/ML Engineer" src="https://github.com/user-attachments/assets/4573f2e9-7ba0-4fee-b81f-025462e76849"/>
-</a>
+  </a>
 
   **Completed the Scikit-Learn Documentation**  
   *on GitHub*
 
-<br clear="left"/>
+  <br clear="left"/>
 
-<a href="https://en.wikipedia.org/wiki/Talk:Scikit-learn">
+  <a href="https://en.wikipedia.org/wiki/Talk:Scikit-learn">
   <img align="left" width="60px" height="60px" alt="IBM AI/ML Engineer" src="https://github.com/user-attachments/assets/799cc749-63e3-430f-940a-e1f0befc28ff"/>
-</a>
+  </a>
 
   **Expanded the Wikipedia Article on Scikit-Learn**  
   *on Wikipedia*
 
+</details>
+
 <br clear="left"/>
+
+
 
 <details open>
   <summary><h2>Tools</h2></summary>
@@ -123,12 +129,6 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
   
 </details>
 
-<details open>
-  <summary><h2>Certifications</h2></summary>
-
-  ![Google - Coursera](https://img.shields.io/badge/Google%20-%20Coursera-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-</details>
 
 
 <details>
@@ -146,7 +146,19 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
 
 
 
-<br clear="left"/>
+<details>
+  
+  <summary><h2>Certifications</h2></summary>
+  
+  <p align="center">
+    <a href="https://coursera.org/share/e549ab24011be72466334b0c6bcb7c77"><img width="1262" height="976" alt="Google_Certificate" src="https://github.com/user-attachments/assets/5a37779c-06f9-44d7-a9a8-8c00ee950c72"/></a>
+  </p>
+
+</details>
+
+
+
+
 
 
 <!--- Add the detail and summary tags for each section except the first one --->
