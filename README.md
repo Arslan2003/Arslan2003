@@ -70,7 +70,7 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
 
 <details>
   
-  <summary><h2>Currently Learning</h2></summary>
+  <summary><h2>Qualifications In Progress</h2></summary>
 
   <a href="https://www.coursera.org/professional-certificates/ai-engineer">
     <img align="left" width="60px" height="60px" alt="IBM AI/ML Engineer" src="https://github.com/user-attachments/assets/f3a5a9e4-07b6-437f-b7f9-2c0e7645b93f"/>
