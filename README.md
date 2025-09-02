@@ -2,8 +2,12 @@
 
 **Junior Data Scientist**
 
-Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engineer, Open Source Contributor, and a tennis player. I apply my Data Science skills to real-life <!--change to a synonym cuz there's one below--> problems in Finance and Technology. All projects here are built from the ground up, from planning and designing to solving real-life problems with code.
+Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engineer, Open Source Contributor, and a tennis player. I use my data science skills to tackle real-world challenges in finance and technology. Every project you see here is something I’ve built from the ground up — from brainstorming and planning to designing and coding. Feel free to explore my work below to see how I transform the digital world one project at a time.
 
+
+<!--- I apply my Data Science skills to real-life problems in Finance and Technology. All projects here are built from the ground up, from planning and designing to solving real-life problems with code. --->
+
+<br clear="left"/>
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.kaggle.com/arslonbekishanov"><img width="60px" height="60px" alt="Kaggle" title="View my Kaggle Profile" src="https://github.com/user-attachments/assets/ad310da5-faf4-41f9-b181-f6a4427e3143"/></a>
