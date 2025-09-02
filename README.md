@@ -57,7 +57,7 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
 
 <details open>
   
-  <summary><h2>Certifications</h2></summary>
+  <summary><h2>Fully Certified In</h2></summary>
   
   <p align="center">
     <a href="https://coursera.org/share/e549ab24011be72466334b0c6bcb7c77"><img width="1262" height="976" alt="Google_Certificate" src="https://github.com/user-attachments/assets/5a37779c-06f9-44d7-a9a8-8c00ee950c72"/></a>
@@ -148,7 +148,7 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
 <br clear="left"/>
 
 <details>
-  <summary><h2>Ask Me About...</h2></summary>
+  <summary><h2>Ask Me About</h2></summary>
 
   - Python, Pandas, NumPy, SciPy  
   - Machine Learning (Random Forest, XGBoost, TabNet)  
