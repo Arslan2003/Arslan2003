@@ -6,14 +6,18 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/arslonbek-ishanov/"><img width="40px" height="40px" alt="LinkedIn" title="View my LinkedIn" src="https://github.com/user-attachments/assets/2fe5106d-f42f-4f07-9d0c-1b82df108429"/></a>
+  <a href="https://www.linkedin.com/in/arslonbek-ishanov/"><img width="60px" height="60px" alt="LinkedIn" title="View my LinkedIn" src="https://github.com/user-attachments/assets/2fe5106d-f42f-4f07-9d0c-1b82df108429"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="40px" height="40px" alt="Kaggle" title="View my Kaggle Profile" src="https://github.com/user-attachments/assets/55a1e073-ad42-4d1d-86f8-8381ccb4c66f"/></a>
+  <a href="https://dev.to/denvercoder1"><img width="60px" height="60px" alt="Kaggle" title="View my Kaggle Profile" src="https://github.com/user-attachments/assets/55a1e073-ad42-4d1d-86f8-8381ccb4c66f"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord"><img width="40px" height="40px" alt="Discord" title="DM me on Discord" src="https://github.com/user-attachments/assets/a89af0bc-eea5-4151-9b8c-80b6b54aa2fd"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord"><img width="60px" height="60px" alt="Discord" title="DM me on Discord" src="https://github.com/user-attachments/assets/a89af0bc-eea5-4151-9b8c-80b6b54aa2fd"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; 
-  <a href="mailto:arslonbek.ishanov.work@gmail.com"><img width="40px" height="40px" alt="Email" title="Send me an email" src="https://github.com/user-attachments/assets/795210e4-7f07-4636-a517-d44e919b42bd"/></a>
+  <a href="mailto:arslonbek.ishanov.work@gmail.com"><img width="60px" height="60px" alt="Email" title="Send me an email" src="https://github.com/user-attachments/assets/1c966ead-d0c7-4861-a390-b87c62ee4c5f"/></a>
 </p>
+
+
+
+
 
 
 
