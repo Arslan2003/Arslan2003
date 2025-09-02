@@ -169,5 +169,12 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
   I am always happy to connect, collaborate, and discuss interesting ideas. Feel free to check out my projects below, reach out on LinkedIn, DM me on Discord or just send me an email!
 </p>
 
+---
+
+<p>
+  <sub>All icons on this page are from <a href="https://icons.docs.icons8.com/" target="_blank">Icons8</a>, while the shields are from <a href="https://shields.io/" target="_blank">shields.io</a>.</sub>
+</p>
+
+
 
 <!--- Add the detail and summary tags for each section except the first one --->
