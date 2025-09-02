@@ -8,16 +8,12 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
 <p align="center">
   <a href="https://www.linkedin.com/in/arslonbek-ishanov/"><img width="60px" height="60px" alt="LinkedIn" title="View my LinkedIn" src="https://github.com/user-attachments/assets/2fe5106d-f42f-4f07-9d0c-1b82df108429"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="60px" height="60px" alt="Kaggle" title="View my Kaggle Profile" src="https://github.com/user-attachments/assets/55a1e073-ad42-4d1d-86f8-8381ccb4c66f"/></a>
+  <a href="https://www.kaggle.com/arslonbekishanov"><img width="60px" height="60px" alt="Kaggle" title="View my Kaggle Profile" src="https://github.com/user-attachments/assets/55a1e073-ad42-4d1d-86f8-8381ccb4c66f"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord"><img width="60px" height="60px" alt="Discord" title="DM me on Discord" src="https://github.com/user-attachments/assets/a89af0bc-eea5-4151-9b8c-80b6b54aa2fd"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord"><img width="60px" height="60px" alt="Discord" title="DM me on Discord" src="https://discord.gg/pztXdqF8"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; 
   <a href="mailto:arslonbek.ishanov.work@gmail.com"><img width="60px" height="60px" alt="Email" title="Send me an email" src="https://github.com/user-attachments/assets/1c966ead-d0c7-4861-a390-b87c62ee4c5f"/></a>
 </p>
-
-
-
-
 
 
 
@@ -25,8 +21,17 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
   
   <summary><h2>My Contributions</h2></summary>
 
+  <a href="https://www.kaggle.com/datasets/arslonbekishanov/companies-listed-on-london-stock-exchange/data">
+  <img align="left" width="60px" height="60px" alt="Kaggle" src="https://github.com/user-attachments/assets/55a1e073-ad42-4d1d-86f8-8381ccb4c66f"/>
+  </a>
+
+  **Published a Dataset of LSE-domiciled Companies with Their Financial Metrics**  
+  *on Kaggle*
+
+  <br clear="left"/>
+  
   <a href="https://github.com/scikit-learn/scikit-learn/issues/30907">
-  <img align="left" width="60px" height="60px" alt="IBM AI/ML Engineer" src="https://github.com/user-attachments/assets/4573f2e9-7ba0-4fee-b81f-025462e76849"/>
+  <img align="left" width="60px" height="60px" alt="GitHub" src="https://github.com/user-attachments/assets/4573f2e9-7ba0-4fee-b81f-025462e76849"/>
   </a>
 
   **Completed the Scikit-Learn Documentation**  
@@ -35,7 +40,7 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
   <br clear="left"/>
 
   <a href="https://en.wikipedia.org/wiki/Talk:Scikit-learn">
-  <img align="left" width="60px" height="60px" alt="IBM AI/ML Engineer" src="https://github.com/user-attachments/assets/799cc749-63e3-430f-940a-e1f0befc28ff"/>
+  <img align="left" width="60px" height="60px" alt="Wikipedia" src="https://github.com/user-attachments/assets/799cc749-63e3-430f-940a-e1f0befc28ff"/>
   </a>
 
   **Expanded the Wikipedia Article on Scikit-Learn**  
