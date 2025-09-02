@@ -20,7 +20,6 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
 </p>
 
 
-
 <details open>
   
   <summary><h2>My Contributions</h2></summary>
@@ -57,6 +56,36 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
 
 
 <details open>
+  
+  <summary><h2>Certifications</h2></summary>
+  
+  <p align="center">
+    <a href="https://coursera.org/share/e549ab24011be72466334b0c6bcb7c77"><img width="1262" height="976" alt="Google_Certificate" src="https://github.com/user-attachments/assets/5a37779c-06f9-44d7-a9a8-8c00ee950c72"/></a>
+  </p>
+
+</details>
+
+<br clear="left"/>
+
+
+<details>
+  
+  <summary><h2>Currently Learning</h2></summary>
+
+  <a href="https://www.coursera.org/professional-certificates/ai-engineer">
+    <img align="left" width="60px" height="60px" alt="IBM AI/ML Engineer" src="https://github.com/user-attachments/assets/f3a5a9e4-07b6-437f-b7f9-2c0e7645b93f"/>
+  </a>
+  
+  **IBM AI/ML Engineer Professional Certificate**  
+  *via Coursera*
+  
+</details>
+
+<!--- <img width="48" height="48" alt="icons8-ibm-48 (1)" src="https://github.com/user-attachments/assets/f3a5a9e4-07b6-437f-b7f9-2c0e7645b93f" /> --->
+<br clear="left"/>
+
+
+<details>
   <summary><h2>Tools</h2></summary>
   
   <h3>Programming and Markup Languages</h3>
@@ -114,34 +143,6 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
   ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
   ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white)
   
-</details>
-
-
-
-<details>
-  
-  <summary><h2>Currently Learning</h2></summary>
-
-  <a href="https://www.coursera.org/professional-certificates/ai-engineer">
-    <img align="left" width="60px" height="60px" alt="IBM AI/ML Engineer" src="https://github.com/user-attachments/assets/f3a5a9e4-07b6-437f-b7f9-2c0e7645b93f"/>
-  </a>
-  
-  **IBM AI/ML Engineer Professional Certificate**  
-  *via Coursera*
-  
-</details>
-
-<!--- <img width="48" height="48" alt="icons8-ibm-48 (1)" src="https://github.com/user-attachments/assets/f3a5a9e4-07b6-437f-b7f9-2c0e7645b93f" /> --->
-<br clear="left"/>
-
-<details>
-  
-  <summary><h2>Certifications</h2></summary>
-  
-  <p align="center">
-    <a href="https://coursera.org/share/e549ab24011be72466334b0c6bcb7c77"><img width="1262" height="976" alt="Google_Certificate" src="https://github.com/user-attachments/assets/5a37779c-06f9-44d7-a9a8-8c00ee950c72"/></a>
-  </p>
-
 </details>
 
 <br clear="left"/>
