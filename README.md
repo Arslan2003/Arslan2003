@@ -1,29 +1,3 @@
-
-
-
-**Arslan2003/Arslan2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... y
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... y
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-To include:
-- My Contributions
-- Tools I use: Programming and Markup Languages, Libraries, Databases, Software and Tools
-- I am currently learning
-- Certifications
-- Ask me about
-- 
-
-
-
 <h1>Arslonbek Ishanov</h1>
 
 **Junior Data Scientist**
@@ -157,8 +131,28 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
 </details>
 
 
+<details>
+  <summary><h2>Ask Me About...</h2></summary>
+
+  - Python, Pandas, NumPy, SciPy  
+  - Machine Learning (Random Forest, XGBoost, TabNet)  
+  - Deep Learning & Neural Networks  
+  - Data Analysis & Visualization  
+  - Stock Market Analysis & Financial Modelling  
+  - SQL, Databases, BigQuery  
+  - Data Scraping & APIs (yfinance, BeautifulSoup, Requests)
+  - Collaborations
+  - Anything else you think is interesting!
+
+</details>
+
+<br clear="left"/>
 
 
+
+<p>
+  I am always happy to connect, collaborate, and discuss interesting ideas. Feel free to check out my projects below, reach out on LinkedIn, DM me on Discord or just send me an email!
+</p>
 
 
 <!--- Add the detail and summary tags for each section except the first one --->
