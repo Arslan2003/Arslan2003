@@ -128,7 +128,7 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
 </details>
 
 <!--- <img width="48" height="48" alt="icons8-ibm-48 (1)" src="https://github.com/user-attachments/assets/f3a5a9e4-07b6-437f-b7f9-2c0e7645b93f" /> --->
-
+<br clear="left"/>
 
 <details>
   
@@ -140,6 +140,7 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
 
 </details>
 
+<br clear="left"/>
 
 <details>
   <summary><h2>Ask Me About...</h2></summary>
