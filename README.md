@@ -10,10 +10,11 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.kaggle.com/arslonbekishanov"><img width="60px" height="60px" alt="Kaggle" title="View my Kaggle Profile" src="https://github.com/user-attachments/assets/55a1e073-ad42-4d1d-86f8-8381ccb4c66f"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord"><img width="60px" height="60px" alt="Discord" title="DM me on Discord" src="https://discord.gg/pztXdqF8"/></a>
+  <a href="https://discord.gg/pztXdqF8" alt="Discord"><img width="60px" height="60px" alt="Discord" title="DM me on Discord" src="https://github.com/user-attachments/assets/7870d017-0b75-4f87-bb18-67508e358477"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; 
   <a href="mailto:arslonbek.ishanov.work@gmail.com"><img width="60px" height="60px" alt="Email" title="Send me an email" src="https://github.com/user-attachments/assets/1c966ead-d0c7-4861-a390-b87c62ee4c5f"/></a>
 </p>
+
 
 
 
