@@ -1,6 +1,6 @@
 <h1>Arslonbek Ishanov</h1>
 
-**Junior Data Scientist**
+**First-Class Graduate Data Scientist**
 
 Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engineer, Open Source Contributor, and a tennis player. I use my data science skills to tackle real-world challenges in finance and technology. Every project you see here is something I’ve built from the ground up — from brainstorming and planning to designing and coding. Feel free to explore my work below to see how I transform the digital world one project at a time.
 
