@@ -1,11 +1,38 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World%2C+I'm+Arslan!;I+am+a+First-Class+Data+Scientist+and+a+AI%2FML+Engineer!&center=true&width=800&height=120&color=F7AB0A&font=Fira+Code)
 
 
-<h1>Arslonbek Ishanov</h1>
+<h1>Arslonbek Ishanov</h1> <!-- Should I keep my full name or "Arslan Ishanov" or "Arslan"? --->
 
 **Junior Data Scientist**
 
 Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engineer, Open Source Contributor, and a tennis player. I use my data science skills to tackle real-world challenges in finance and technology. Every project you see here is something I’ve built from the ground up — from brainstorming and planning to designing and coding. Feel free to explore my work below to see how I transform the digital world one project at a time.
+
+```text
+class Me:
+    
+    def __init__(self):
+        # Basic info
+        self.name = "Arslonbek Ishanov"
+        self.role = "Data Scientist & AI/ML Enthusiast"
+        self.skills = ["Python", "R", "SQL", "Machine Learning", "Deep Learning"]
+        self.tools = ["Pandas", "NumPy", "TensorFlow", "PyTorch", "TabNet"]
+        self.hobbies = ["Tennis", "Open Source Contribution"]
+
+    def introduce(self):
+        print(f"Hi, I'm {self.name}.")
+        print(f"My role: {self.role}.")
+        print(f"My main skills: {', '.join(self.skills)}.")
+        print(f"My favorite tools: {', '.join(self.tools)}.")
+        print(f"My hobbies: {', '.join(self.hobbies)}.")
+
+# Create an instance
+me = Me()
+
+# Introducing myself
+me.introduce()
+
+
+```
 
 
 <!--- I apply my Data Science skills to real-life problems in Finance and Technology. All projects here are built from the ground up, from planning and designing to solving real-life problems with code. --->
