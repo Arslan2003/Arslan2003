@@ -48,7 +48,7 @@ Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engi
   <img align="left" width="60px" height="60px" alt="Wikipedia" src="https://github.com/user-attachments/assets/b56e9830-221f-43f1-92a0-62f1ea08c89f"/>
   </a>
 
-  **Expanded the Wikipedia Article on Scikit-Learn**  
+  **Expanded the Wikipedia Article about Scikit-Learn**  
   *on Wikipedia*
 
 </details>
