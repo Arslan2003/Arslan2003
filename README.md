@@ -1,6 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World%2C+I'm+Arslan!;I+am+a+First-Class+Data+Scientist+and+a+AI%2FML+Engineer!&center=true&width=800&height=120&color=F7AB0A&font=Fira+Code)
 
-
 <h2>🙋‍♂️ About Me</h2>
     
 **First-Class Graduate Data Scientist**
@@ -241,9 +240,20 @@ me.introduce()
 
 <details>
     <summary><h2>Activity & Statistics</h2></summary>
+
+<h3>Total Contributions on GitHub</h3>   
     
 ![GitHub Snake Dark](https://github.com/Arslan2003/Arslan2003/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Snake Light](https://github.com/Arslan2003/Arslan2003/blob/output/ocean.gif#gh-light-mode-only)
+
+
+<h3>Statistics</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arslan2003&theme=tokyonight)
+
+> Note: The languages displayed here are based on the code in my public repositories and do not reflect my overall experience or proficiency fully.
+
+
 
 </details>
 
