@@ -1,6 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World%2C+I'm+Arslan!;I+am+a+First-Class+Data+Scientist+and+a+AI%2FML+Engineer!&center=true&width=800&height=120&color=F7AB0A&font=Fira+Code)
 
-
 <h2>🙋‍♂️ About Me</h2>
     
 **First-Class Graduate Data Scientist**
