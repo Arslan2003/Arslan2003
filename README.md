@@ -4,7 +4,7 @@
     
 **First-Class Graduate Data Scientist**
     
-Welcome to my GitHub! Here, I explore how Machine Learning and AI can revolutionise the Finance sector by wrangling data and building models. When I am not clicking buttons or crushing bugs, you can catch me on a tennis court, sipping a cup of coffee or geeking out over the latest developments in the Tech industry.
+Welcome to my GitHub! Here, I explore how Machine Learning and AI can revolutionise the Finance sector by wrangling data and building models. When I am not tapping away at the keyboard, crushing bugs or crunching numbers, you can catch me on a tennis court, sipping a cup of coffee or geeking out over the latest developments in the Tech industry.
 
 <br clear="left"/>
     
