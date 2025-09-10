@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World%2C+I'm+Arslan!;I+am+a+First-Class+Data+Scientist+and+a+AI%2FML+Engineer!&center=true&width=800&height=120&color=00B4D8&font=Fira+Code)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World%2C+I'm+Arslan!;I'm+a+First-Class+Data+Scientist+and+an+AI%2FML+Enthusiast!&center=true&width=800&height=120&color=00B4D8&font=Fira+Code)
 
 <h2>🙋‍♂️ About Me</h2>
     
