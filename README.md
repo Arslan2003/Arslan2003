@@ -119,6 +119,10 @@ me.introduce()
   
 </details>
 
+<br clear="left"/>
+
+
+
 <details>
   
   <summary><h2>Certifications</h2></summary>
