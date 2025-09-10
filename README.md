@@ -7,16 +7,28 @@
 
 Hi there!👋🏼 Welcome to my GitHub! I am a Junior Data Scientist, AI/ML Engineer, Open Source Contributor, and a tennis player. I use my data science skills to tackle real-world challenges in finance and technology. Every project you see here is something I’ve built from the ground up — from brainstorming and planning to designing and coding. Feel free to explore my work below to see how I transform the digital world one project at a time.
 
+
+<!--- Add the big composite letter comment saying "Run this code to get/create your own data scientist" ascii art --->
 ```text
+    _  _      _____                _        __     __                _____        _           _____      _            _   _     _   
+  _│ ││ │_   ╱ ____│              │ │       ╲ ╲   ╱ ╱               │  __ ╲      │ │         ╱ ____│    (_)          │ │ (_)   │ │  
+ │_  __  _│ │ │     _ __ ___  __ _│ │_ ___   ╲ ╲_╱ ╱__  _   _ _ __  │ │  │ │ __ _│ │_ __ _  │ (___   ___ _  ___ _ __ │ │_ _ ___│ │_ 
+  _│ ││ │_  │ │    │ '__╱ _ ╲╱ _` │ __╱ _ ╲   ╲   ╱ _ ╲│ │ │ │ '__│ │ │  │ │╱ _` │ __╱ _` │  ╲___ ╲ ╱ __│ │╱ _ ╲ '_ ╲│ __│ ╱ __│ __│
+ │_  __  _│ │ │____│ │ │  __╱ (_│ │ ││  __╱    │ │ (_) │ │_│ │ │    │ │__│ │ (_│ │ ││ (_│ │  ____) │ (__│ │  __╱ │ │ │ │_│ ╲__ ╲ │_ 
+   │_││_│    ╲_____│_│  ╲___│╲__,_│╲__╲___│    │_│╲___╱ ╲__,_│_│    │_____╱ ╲__,_│╲__╲__,_│ │_____╱ ╲___│_│╲___│_│ │_│╲__│_│___╱╲__│
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                         
+
 class Me:
     
     def __init__(self):
         # Basic info
         self.name = "Arslonbek Ishanov"
         self.role = "Data Scientist & AI/ML Enthusiast"
-        self.skills = ["Python", "R", "SQL", "Machine Learning", "Deep Learning"]
-        self.tools = ["Pandas", "NumPy", "TensorFlow", "PyTorch", "TabNet"]
-        self.hobbies = ["Tennis", "Open Source Contribution"]
+        self.skills = ["Statistics", "Prgoramming Profeciency", "Data Wrangling", "Machine Learning", "Communication & Story Telling"]
+        self.tools = ["Python", "SQL", "Jupyter Notebooks", "Version Control", "Tableau", "Power BI"]
+        self.hobbies = ["Tennis", "Open Source Contribution", "Knowledge Sharing", "Experimenting with New Tools"]
 
     def introduce(self):
         print(f"Hi, I'm {self.name}.")
