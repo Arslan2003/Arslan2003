@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World%2C+I'm+Arslan!;I+am+a+First-Class+Data+Scientist+and+a+AI%2FML+Engineer!&center=true&width=800&height=120&color=F7AB0A&font=Fira+Code)
 
 
-<h1>Arslonbek Ishanov</h1> <!-- Should I keep my full name or "Arslan Ishanov" or "Arslan"? --->
+<h1>Arslonbek Ishanov</h1> <!-- Should I keep my full name, "Arslan Ishanov" or "Arslan"? --->
 
 **First-Class Graduate Data Scientist**
 
@@ -26,7 +26,7 @@ class Me:
         # Basic info
         self.name = "Arslonbek Ishanov"
         self.role = "Data Scientist & AI/ML Enthusiast"
-        self.skills = ["Statistics", "Prgoramming Profeciency", "Data Wrangling", "Machine Learning", "Communication & Story Telling"]
+        self.skills = ["Statistics", "Programming Proficiency", "Data Wrangling", "Machine Learning", "Communication & Story Telling"]
         self.tools = ["Python", "SQL", "Jupyter Notebooks", "Version Control", "Tableau", "Power BI"]
         self.hobbies = ["Tennis", "Open Source Contribution", "Knowledge Sharing", "Experimenting with New Tools"]
 
@@ -192,8 +192,17 @@ me.introduce()
 <br clear="left"/>
 
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Arslan2003/Arslan2003/output/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Arslan2003/Arslan2003/output/snake.svg#gh-dark-mode-only)
+
+<details open>
+    <summary><h2>Activity Statistics</h2></summary>
+    
+![GitHub Snake Dark](https://github.com/Arslan2003/Arslan2003/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/Arslan2003/Arslan2003/blob/output/github-snake.svg#gh-light-mode-only)
+
+</details>
+
+<br clear="left"/>
+
 
 
 <details>
@@ -213,12 +222,7 @@ me.introduce()
 
 <br clear="left"/>
 
-<details open>
-    <summary><h2>Activity Statistics</h2></summary>
-    
-    ![snake gif](https://github.com/Arslan2003/Arslan2003/blob/output/github-snake-dark.svg)
 
-</details>
 
 
 
