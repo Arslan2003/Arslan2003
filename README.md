@@ -4,7 +4,7 @@
     
 **First-Class Graduate Data Scientist**
     
-Welcome to my GitHub! Here, I explore how Machine Learning and AI can revolutionise the Finance sector by wrangling data and building models. When I am not coding or crushing bugs, you can catch me on a tennis court, sipping a cup of coffee or geeking out over the latest developments in the Tech inudstry.
+Welcome to my GitHub! Here, I explore how Machine Learning and AI can revolutionise the Finance sector by wrangling data and building models. When I am not clicking buttons or crushing bugs, you can catch me on a tennis court, sipping a cup of coffee or geeking out over the latest developments in the Tech industry.
 
 <br clear="left"/>
     
@@ -24,7 +24,7 @@ Welcome to my GitHub! Here, I explore how Machine Learning and AI can revolution
 
 
 <details open>
-    <summary><h2>How I Would Define Myself... Literally</h2></summary>
+    <summary><h2>🧑‍💻 How I Would Define Myself... Literally</h2></summary>
 
 
 ```text
@@ -72,7 +72,7 @@ me.introduce()
 
 <details open>
   
-  <summary><h2>My Open-Source Contributions</h2></summary>
+  <summary><h2>🧩 My Open-Source Contributions</h2></summary>
 
   <a href="https://www.kaggle.com/datasets/arslonbekishanov/companies-listed-on-london-stock-exchange/data">
   <img align="left" width="60px" height="60px" alt="Kaggle" src="https://github.com/user-attachments/assets/ad310da5-faf4-41f9-b181-f6a4427e3143"/>
@@ -107,9 +107,9 @@ me.introduce()
 
 <details open>
   
-  <summary><h2>What I am up to</h2></summary>
+  <summary><h2>📌 What I am up to</h2></summary>
 
-  <h3>Currently Learning</h3>
+  <h3>🌱 Currently Learning</h3>
   <a href="https://www.coursera.org/professional-certificates/ai-engineer">
     <img align="left" width="60px" height="60px" alt="IBM AI/ML Engineer" src="https://github.com/user-attachments/assets/f3a5a9e4-07b6-437f-b7f9-2c0e7645b93f"/>
   </a>
@@ -125,7 +125,7 @@ me.introduce()
 
 <details>
   
-  <summary><h2>Certifications</h2></summary>
+  <summary><h2>📜 Certifications</h2></summary>
   <!---
   <p align="center">
     <a href="https://coursera.org/share/e549ab24011be72466334b0c6bcb7c77"><img width="1262" height="976" alt="Google_Certificate" src="https://github.com/user-attachments/assets/5a37779c-06f9-44d7-a9a8-8c00ee950c72"/></a>
@@ -144,7 +144,7 @@ me.introduce()
 
 
 <details>
-  <summary><h2>Tools</h2></summary>
+  <summary><h2>🛠️ Tools</h2></summary>
   
   <h3>Programming & Markup Languages</h3>
 
@@ -222,7 +222,7 @@ me.introduce()
 
 
 <details>
-  <summary><h2>Ask Me About</h2></summary>
+  <summary><h2>🤝 Ask Me About</h2></summary>
 
   - Python, Pandas, NumPy, SciPy  
   - Machine Learning (Random Forest, XGBoost, TabNet)  
@@ -243,7 +243,7 @@ me.introduce()
 
 
 <details>
-    <summary><h2>Activity & Statistics</h2></summary>
+    <summary><h2>📊 Activity & Statistics</h2></summary>
 
 <h3>Total Contributions on GitHub</h3>   
     
@@ -275,7 +275,7 @@ me.introduce()
 <br clear="left"/>
 
 <details>
-    <summary><h2>Error 404: Boredom Not Found</h2></summary>
+    <summary><h2>😂 Error 404: Boredom Not Found</h2></summary>
     
 Here are a couple of jokes to brighten your day! ;)
     
