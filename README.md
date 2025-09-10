@@ -213,6 +213,13 @@ me.introduce()
 
 <br clear="left"/>
 
+<details open>
+    <summary><h2>Activity Statistics</h2></summary>
+    
+    ![snake gif](https://github.com/Arslan2003/Arslan2003/blob/output/github-snake-dark.svg)
+
+</details>
+
 
 
 <p>
