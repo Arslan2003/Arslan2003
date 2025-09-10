@@ -253,7 +253,18 @@ me.introduce()
 
 <h3>Statistics</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arslan2003&theme=tokyonight)
+<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arslan2003&theme=tokyonight) --->
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arslan2003&theme=tokyonight" 
+    media="(prefers-color-scheme: dark)"/>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arslan2003&theme=default" 
+    media="(prefers-color-scheme: light)"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arslan2003"/>
+</picture>
+
 
 > Note: The languages displayed here are based on the code in my public repositories and do not reflect my overall experience or proficiency fully.
 
