@@ -197,7 +197,7 @@ me.introduce()
     <summary><h2>Activity Statistics</h2></summary>
     
 ![GitHub Snake Dark](https://github.com/Arslan2003/Arslan2003/blob/output/github-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake Light](https://github.com/Arslan2003/Arslan2003/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Light](https://github.com/Arslan2003/Arslan2003/blob/output/ocean.gif#gh-light-mode-only)
 
 </details>
 
