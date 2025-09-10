@@ -189,6 +189,11 @@ me.introduce()
 
 <br clear="left"/>
 
+
+![GitHub Snake Light](https://raw.githubusercontent.com/Arslan2003/Arslan2003/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Arslan2003/Arslan2003/output/snake.svg#gh-dark-mode-only)
+
+
 <details>
   <summary><h2>Ask Me About</h2></summary>
 
