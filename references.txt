@@ -1,5 +1,4 @@
-## Here is the list of sources used to create this README:
-
+Here is the list of sources used to create this README:
 1. Snake game: https://github.com/Platane/snk
 2. Shields: https://shields.io/
 3. Icons: https://icons.docs.icons8.com/
