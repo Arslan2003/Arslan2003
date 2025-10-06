@@ -300,7 +300,7 @@ Here are a couple of jokes to brighten your day! ;)
 ---
 
 <p>
-  <sub>All icons on this page are from <a href="https://icons.docs.icons8.com/" target="_blank">Icons8</a>, while the shields are from <a href="https://shields.io/" target="_blank">shields.io</a>.</sub>
+  <sub>Visit the [references.md](references.md) file to see the resources used to create this profile.</sub>
 </p>
 
 
