@@ -300,7 +300,7 @@ Here are a couple of jokes to brighten your day! ;)
 ---
 
 <p>
-  <sub>Visit the [references](references.md) file to see the resources used to create this profile.</sub>
+  <sub>Visit the <a href="./references.md">References file</a> to check out all the resources used to create this profile README file.</sub>
 </p>
 
 
