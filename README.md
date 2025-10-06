@@ -267,7 +267,7 @@ me.introduce()
 </picture>
 
 
-> Note: The languages displayed here are based on the code in my public repositories and do not reflect my overall experience or proficiency fully.
+> Note: The languages displayed here are based on the code in my public repositories and do not fully reflect my overall experience or proficiency.
 
 
 
@@ -300,7 +300,7 @@ Here are a couple of jokes to brighten your day! ;)
 ---
 
 <p>
-  <sub>Visit the [references.md](references.md) file to see the resources used to create this profile.</sub>
+  <sub>Visit the [references](references.md) file to see the resources used to create this profile.</sub>
 </p>
 
 
